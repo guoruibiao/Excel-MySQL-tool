@@ -1,0 +1,1 @@
+create table example(姓名 varchar(100) not null ,年龄 int(100)  ,籍贯 varchar(255) ,手机号码 varchar(100) ,primary key(姓名));insert into example(姓名,年龄,籍贯,手机号码) values('mark',12.0,'大连市',156048637.0);insert into example(姓名,年龄,籍贯,手机号码) values('张三',20.0,'北京市',1827890234.0);insert into example(姓名,年龄,籍贯,手机号码) values('李四',29.0,'深圳市',1632434098.0);
