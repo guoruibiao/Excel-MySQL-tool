@@ -48,4 +48,4 @@ release.generate(r'./readout.xlsx',table_header_type,"id",r'./readout.sql')
 
 
 - 运行完刚才的示例代码后会在当前目录下生成一个readout.sql文件，复制里面的内容到数据库中。
-![输出结果](https://github.com/guoruibiao/Excel-MySQL-tool/upload/master/imgs/export_release.gif)
+![输出结果](https://github.com/guoruibiao/Excel-MySQL-tool/raw/master/imgs/export_release.gif)
