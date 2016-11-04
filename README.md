@@ -41,7 +41,7 @@ release.generate(r'./readout.xlsx',table_header_type,"id",r'./readout.sql')
 ## 案例展示
 ## 图片展示
 
-由于数据库输出到excel比较简单，这里就简单的展示一下excel转汉城数据库的案例吧。
+由于数据库输出到excel比较简单，这里就简单的展示一下excel转换成数据库的案例吧。
 
 - excel原始内容
 ![Excel数据源](http://img.blog.csdn.net/20160822214106332)
